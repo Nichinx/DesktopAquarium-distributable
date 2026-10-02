@@ -2,7 +2,7 @@
 
 DesktopAquarium is a lightweight Windows desktop aquarium and desktop-pet application that adds animated fish, decorations, feeding, fishing, bubbles, and interactive aquarium behavior directly to your desktop.
 
-[![Download DesktopAquarium](https://img.shields.io/badge/Download-DesktopAquarium_Setup.exe-blue?style=for-the-badge&logo=windows)](https://github.com/Nichinx/DesktopAquarium-distributable/releases)
+[![Download DesktopAquarium](https://img.shields.io/badge/Download-DesktopAquarium_Setup.exe-blue?style=for-the-badge&logo=windows)](https://github.com/Nichinx/DesktopAquarium-distributable/releases/latest/download/DesktopAquarium-Setup.exe)
 
 > This repository is for public DesktopAquarium downloads and release information only.
 
@@ -28,7 +28,7 @@ The packaged release is self-contained and intended for normal users. It does no
 
 If you prefer not to install DesktopAquarium, download:
 
-`DesktopAquarium-1.1.0-Portable-win-x64.zip`
+`DesktopAquarium-1.2.0-Portable-win-x64.zip`
 
 Extract the entire ZIP, then run:
 
@@ -36,18 +36,28 @@ Extract the entire ZIP, then run:
 
 Keep all included files together.
 
+### Release Assets
+
+The v1.2.0 release is expected to include:
+
+- `DesktopAquarium-1.2.0-Setup.exe`
+- `DesktopAquarium-Setup.exe` — recommended installer and stable latest-release filename
+- `DesktopAquarium-1.2.0-Portable-win-x64.zip`
+- `SHA256SUMS.txt`
+
 ## Features
 
-- Animated desktop fish
-- Transparent desktop behavior and click-through empty areas
-- Fish feeding and Fishing Rod interactions
-- Fish names, health, hunger, and feeding status
-- Fish reactions, bubbles, and chat messages
-- Movable decorations and coral
-- Large fish including shark, whale, and stingray
+- Animated desktop fish in a transparent desktop overlay with click-through empty areas
+- Lock Aquarium mode for click-through fish and decorations
+- Fish feeding, multiple simultaneous Fishing Rods, and feeding while active rods remain in place
+- Fish naming, cursor-follow behavior, and animated chat, emotion, and bubble effects
+- Persistent fish health and hunger, including Weak, Critical, starvation, Overfed, and Severely overfed states
+- Fish death and sinking behavior with reactions such as `x.x`, `ded`, or `💀`
+- Movable fish and decorations, with multi-selection and batch removal for both
+- Guppy and large fish including Shark, Whale, and Stingray
+- Optional temporary large-fish events after sustained active work
 - Multi-monitor support
-- Lock Aquarium mode
-- System tray controls
+- System tray controls and persistent aquarium settings
 
 ## System Requirements
 
@@ -62,7 +72,7 @@ DesktopAquarium is currently unsigned, so Windows SmartScreen may display a warn
 
 ## Current Version
 
-**v1.1.0**
+**v1.2.0**
 
 ## Developer
 
