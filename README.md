@@ -2,7 +2,19 @@
 
 DesktopAquarium is a lightweight Windows desktop aquarium and desktop-pet application that adds animated fish, decorations, feeding, fishing, bubbles, and interactive aquarium behavior directly to your desktop.
 
-[![Download DesktopAquarium](https://img.shields.io/badge/Download-DesktopAquarium_Setup.exe-blue?style=for-the-badge&logo=windows)](https://github.com/Nichinx/DesktopAquarium-distributable/releases/latest/download/DesktopAquarium-Setup.exe)
+<p align="center">
+  <img src="screenshots/1.png" alt="DesktopAquarium Screenshot" width="800">
+</p>
+
+<p align="center">
+  <em>Note: The background wallpaper shown in the screenshot is not included. DesktopAquarium is an overlay that appears on top of your existing desktop.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Nichinx/DesktopAquarium-distributable/releases/latest/download/DesktopAquarium-Setup.exe">
+    <img src="https://img.shields.io/badge/Download-DesktopAquarium-0078D4?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Download DesktopAquarium">
+  </a>
+</p>
 
 > This repository is for public DesktopAquarium downloads and release information only.
 
@@ -10,11 +22,9 @@ DesktopAquarium is a lightweight Windows desktop aquarium and desktop-pet applic
 
 ### Recommended: Windows Installer
 
-Click the download button above, or open the [latest GitHub Release](https://github.com/Nichinx/DesktopAquarium-distributable/releases/latest).
+Click the download button above, or download the recommended installer directly:
 
-Download:
-
-`DesktopAquarium-Setup.exe`
+[Download `DesktopAquarium-Setup.exe`](https://github.com/Nichinx/DesktopAquarium-distributable/releases/latest/download/DesktopAquarium-Setup.exe)
 
 Then:
 
@@ -41,7 +51,7 @@ Keep all included files together.
 The v1.2.0 release is expected to include:
 
 - `DesktopAquarium-1.2.0-Setup.exe`
-- `DesktopAquarium-Setup.exe` — recommended installer and stable latest-release filename
+- [`DesktopAquarium-Setup.exe`](https://github.com/Nichinx/DesktopAquarium-distributable/releases/latest/download/DesktopAquarium-Setup.exe) — recommended installer and stable latest-release filename
 - `DesktopAquarium-1.2.0-Portable-win-x64.zip`
 - `SHA256SUMS.txt`
 
@@ -86,7 +96,7 @@ Application installers and portable builds are available from this repository's 
 
 For normal installation, use:
 
-`DesktopAquarium-Setup.exe`
+[`DesktopAquarium-Setup.exe`](https://github.com/Nichinx/DesktopAquarium-distributable/releases/latest/download/DesktopAquarium-Setup.exe)
 
 The repository files themselves do not contain the DesktopAquarium application source code.
 
