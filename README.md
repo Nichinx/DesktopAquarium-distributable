@@ -22,12 +22,7 @@ DesktopAquarium is a lightweight Windows desktop aquarium and desktop-pet applic
 
 ### Recommended: Windows Installer
 
-Click the download button above, or download the recommended installer directly:
-
-[Download `DesktopAquarium-Setup.exe`](https://github.com/Nichinx/DesktopAquarium-distributable/releases/latest/download/DesktopAquarium-Setup.exe)
-
-Then:
-
+Click the download button above. Then:
 1. Run the installer.
 2. Follow the installation steps.
 3. Launch DesktopAquarium from the Start Menu or Desktop shortcut.
@@ -51,7 +46,7 @@ Keep all included files together.
 The v1.2.0 release is expected to include:
 
 - `DesktopAquarium-1.2.0-Setup.exe`
-- [`DesktopAquarium-Setup.exe`](https://github.com/Nichinx/DesktopAquarium-distributable/releases/latest/download/DesktopAquarium-Setup.exe) — recommended installer and stable latest-release filename
+- `DesktopAquarium-Setup.exe` — recommended installer and stable latest-release filename
 - `DesktopAquarium-1.2.0-Portable-win-x64.zip`
 - `SHA256SUMS.txt`
 
@@ -78,26 +73,19 @@ The packaged release is self-contained and does not require the .NET SDK.
 
 ## Windows SmartScreen
 
-DesktopAquarium is currently unsigned, so Windows SmartScreen may display a warning when running a newly downloaded installer. Review the downloaded file and its published SHA-256 checksum before deciding whether to run it. Do not disable Windows Defender, SmartScreen, or antivirus protection globally.
+DesktopAquarium is currently unsigned, so Windows SmartScreen may display a warning when running a newly downloaded installer. Review the downloaded file before deciding whether to run it. Do not disable Windows Defender, SmartScreen, or antivirus protection globally.
 
 ## Current Version
-
 **v1.2.0**
 
 ## Developer
 
 Developed by **nichi**
-
 Copyright © 2026 nichi
 
 ## Releases
 
 Application installers and portable builds are available from this repository's GitHub Releases page rather than committed to its normal Git history.
-
-For normal installation, use:
-
-[`DesktopAquarium-Setup.exe`](https://github.com/Nichinx/DesktopAquarium-distributable/releases/latest/download/DesktopAquarium-Setup.exe)
-
 The repository files themselves do not contain the DesktopAquarium application source code.
 
 [View all releases](https://github.com/Nichinx/DesktopAquarium-distributable/releases)
